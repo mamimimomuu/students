@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :wink: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Myrnalyn, Your personal healthcare companion.
 
-hugot_lines/inspirational_quotes /other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be" - Dr. Harold Winston, Overwatch
+hugot_lines/other_stuffs
+> "Sorry, IDGAF".
